@@ -1,0 +1,63 @@
+#bio {
+ background-color: #EDEDED;   
+}
+
+img {
+    float: left;
+    width: 225px;
+    border: 5px solid black;
+/*    margin-right: 8px;*/
+    margin-bottom: 2px;
+    margin-top: 13px;
+}
+
+#biobox {
+    float: left;
+    width: 225px;
+    height: 190px;
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-left: 
+    
+}
+
+#quickinfo li{
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: left;
+    margin-left: -25px;
+    display: list-item;
+    margin-top: 40px;
+}
+
+
+p {
+    font-size: 12px;
+    font-family: Palatino;
+    float: right;
+    height: 450px;
+    width: 300px;
+    margin-top: -371px;
+}
+
+.column1 {
+    font-family: Arial;
+    font-size: 12px;
+    vertical-align: bottom;
+    padding-bottom: 5px;
+    text-align: right
+}
+
+.column2 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    vertical-align: bottom;
+}
+
+table {
+    margin-left: 30px;
+    margin-top: 28px;
+}
