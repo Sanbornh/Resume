@@ -1,0 +1,55 @@
+
+#contact {
+    background-color: #EDEDED;
+}
+
+
+#contacttable {
+    height: 375px;
+    width: 525px;
+    margin: 13px;
+}
+
+
+
+.contactinfo {
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    border: 5px solid black;
+    text-align: center;  
+    transition: background-color 1s ease-out;
+}
+
+.contactinfo:hover {
+    background-color: #EDEDED;
+    transition: background 1s ease-in; 
+}
+
+.leftside {
+    margin-right: -150px;
+    margin-left: 90px;
+
+}
+
+#twitter {
+    height:150px;
+}
+
+#linkedin {
+    height:200px;
+    margin-right: -10px;
+    margin-left: -23px;
+    margin-top: -23px;
+}
+
+#email {
+    height:125px;
+    margin-top: 12px;
+    margin-left: -2px;
+}
+
+#facebook {
+    height:125px;
+    margin-top: 12px;
+}
